@@ -1,0 +1,28 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+    .ct div {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        flex-direction:column;
+    }
+.ct div .txt {
+    text-align: center;
+    color: #2a4b92;
+    text-decoration: none;
+    display: block;
+    font-size: 18px;
+    margin-top:5%;
+}
+
+    .ct:hover {
+        background-color: rgb(255, 255,255);
+        font-weight:800;
+    }

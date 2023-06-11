@@ -1,0 +1,21 @@
+﻿*{
+    margin:0;
+    padding:0;
+    position:relative;
+}
+
+.ct {
+    width: 90%;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction:column;
+}
+
+#GridView1{
+    width:100%;
+    height:auto;
+    text-align:center;
+}
